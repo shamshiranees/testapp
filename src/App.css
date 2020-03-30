@@ -12,6 +12,15 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.MuiStepIcon-active  { 
+  color: #4a85c1 !important;
+}
+
+.MuiStepIcon-completed { 
+  color: #4a85c1 !important;
+}
+
+
 
 .App-header {
   background-color: #282c34;

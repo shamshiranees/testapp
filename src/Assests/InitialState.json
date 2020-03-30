@@ -1,0 +1,23 @@
+{
+
+    "events":[{
+        "id":"ev1",
+    "name":"Yoga and Pilite Training","image":"https://images.pexels.com/photos/2035066/pexels-photo-2035066.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","type":"TRAINING - FITNESS","description":"This yoga and pilite training is for all types of trainees","cost":"$80.00"
+    },{
+        "id":"ev2",
+    "name":"Pilite Training","image":"https://images.pexels.com/photos/1051838/pexels-photo-1051838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940","type":"FITNESS","description":"This pilite training is for all types of trainees","cost":"$30.00"
+    }],
+    "status":"requests",
+    "data":{
+        "ev1":{
+            "requests":[{"id":1,"userImage":"https://randomuser.me/api/portraits/men/61.jpg",
+                "username":"Ray smith","place":"San Francisco","deals": 12,"address":"50 Hagiwara Tea Garden Dr,Sanfrancisco CA 656765","availableTimes":["1585558853"],"time":1585397513000
+            },{"id":2,"userImage":"https://randomuser.me/api/portraits/men/60.jpg",
+                "username":"shamshir Anees","place":"Kochi","deals": 3,"address":"60 Hagiwara Tea Garden Dr,Sanfrancisco CA 656765","availableTimes":["1585558853"],"time":1585397513000
+            }],"services":[],"payments":[]
+        }
+    
+    
+    },
+    "selectedEventId": "ev1"
+    }
